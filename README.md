@@ -1,6 +1,6 @@
 # 📁 Faisal Meah's Portfolio
 
-Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven **MIS Specialist** with experience in **Excel**, **Power BI**, and **data analysis**. I have a strong background in creating actionable insights and business intelligence solutions for various industries, particularly in **Sales, IT**, and **HR**. My work spans **dashboard creation**, **report automation**, and **data visualization**, and I am committed to helping businesses achieve their objectives through data-driven decision-making.
+Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven **Sales Operations Specialist** with experience in **Excel**, **Power BI**, and **data analysis**. I have a strong background in creating actionable insights and business intelligence solutions for various industries, particularly in **Sales**, **IT**, and **HR**. My work spans **dashboard creation**, **report automation**, and **data visualization**, and I am committed to helping businesses achieve their objectives through data-driven decision-making.
 
 ---
 
