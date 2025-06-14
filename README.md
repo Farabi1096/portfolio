@@ -8,7 +8,7 @@ Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven **Sale
 - **Advanced Excel Skills**: Data automation, advanced functions, pivot tables, and dynamic reporting.  
 - **Power BI**: Business intelligence, dashboards, KPI tracking, and data visualization.  
 - **Data Analysis**: Trend analysis, statistical insights, and forecasting.  
-- **Report Automation**: Using Power Query, Power Pivot, and other Excel tools for automated data transformation and reporting.
+- **Report Automation**: Using Power Query, Power Pivot, Power BI, and other Excel tools for automated data transformation and reporting.
 
 ---
 
