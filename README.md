@@ -1,8 +1,8 @@
 # 📁 Faisal Meah's Portfolio
 
-Welcome to my professional portfolio! I am Faisal Meah, a data-driven Sales Operations & Data Analyst currently working as Senior Officer - MIS at Artisan Business Network Bangladesh, managing data analytics and reporting for Unilever International’s operations. I have extensive experience in Excel, Power BI, and data analysis, creating actionable insights and business intelligence solutions across Sales, IT, and MIS functions.
+Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven Sales Operations & Data Analyst currently working as **Senior Officer - MIS** at Artisan Business Network Bangladesh, managing data analytics and reporting for Unilever International’s operations. I have extensive experience in **Excel**, **Power BI**, and **data analysis**, creating actionable insights and business intelligence solutions across **Sales**, **IT**, and **MIS** functions.
 
-I specialize in dashboard creation, report automation, and data visualization, collaborating closely with sales and IT teams to translate complex data into actionable business strategies. Known for delivering data-driven solutions that improve operational efficiency and sales performance, I am committed to helping businesses achieve their objectives through informed decision-making.
+I specialize in **dashboard creation**, **report automation**, and **data visualization**, collaborating closely with sales and IT teams to translate complex data into actionable business strategies. Known for delivering data-driven solutions that improve operational efficiency and sales performance, I am committed to helping businesses achieve their objectives through informed decision-making.
 
 ---
 
