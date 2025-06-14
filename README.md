@@ -1,8 +1,8 @@
 # 📁 Faisal Meah's Portfolio
 
-Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven Sales Operations & Data Analyst currently working as **Senior Officer - MIS** at Artisan Business Network Bangladesh, managing data analytics and reporting for Unilever International’s operations. I have extensive experience in **Excel**, **Power BI**, and **data analysis**, creating actionable insights and business intelligence solutions across **Sales**, **IT**, and **MIS** functions.
+**Data enthusiast | Problem solver | Business growth catalyst**
 
-I specialize in **dashboard creation**, **report automation**, and **data visualization**, collaborating closely with sales and IT teams to translate complex data into actionable business strategies. Known for delivering data-driven solutions that improve operational efficiency and sales performance, I am committed to helping businesses achieve their objectives through informed decision-making.
+Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven Sales Operations & Data Analyst currently working as **Senior Officer - MIS** at Artisan Business Network Bangladesh, managing data analytics and reporting for Unilever International’s operations. I have extensive experience in **Excel**, **Power BI**, and **data analysis**, creating actionable insights and business intelligence solutions across **Sales**, **IT**, and **MIS** functions.
 
 ---
 
@@ -17,15 +17,24 @@ I specialize in **dashboard creation**, **report automation**, and **data visual
 ## 📊 Key Projects & Work
 
 ### 1. **[Power BI Portfolio](https://github.com/Farabi1096/powerbi-dashboards)**  
-This project showcases my Power BI work, including dynamic dashboards and business intelligence solutions for sales and performance tracking.
+- Dynamic sales dashboards  
+- KPI tracking & performance analysis  
+- Interactive business intelligence reports  
 
 ### 2. **[Excel Portfolio](https://github.com/Farabi1096/excel-automated-reports)**  
-This project highlights my work with Excel, featuring automated business dashboards, advanced reporting, and data analysis solutions for decision-making.
+- Automated business dashboards  
+- Advanced reporting and data analysis  
+- Decision-making tools  
 
 ### 3. **[Typing Portfolio](https://github.com/Farabi1096/typing-tornado)**  
-This project demonstrates my typing skills, including speed, accuracy, and consistency, highlighting my technical proficiency and attention to detail.
+- Typing speed, accuracy, and consistency metrics  
+- Demonstrates technical proficiency and attention to detail  
 
 ---
 
 ## 💻 Connect With Me  
-I am always open to feedback and new opportunities for collaboration. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-meah/) or check out my GitHub for more project samples.
+I am always open to feedback, collaboration, freelance projects, and new opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-meah/) or check out my GitHub for more project samples.
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farabi1096&show_icons=true&theme=radical)
