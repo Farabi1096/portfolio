@@ -34,7 +34,3 @@ Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven Sales 
 
 ## 💻 Connect With Me  
 I am always open to feedback, collaboration, freelance projects, and new opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-meah/) or check out my GitHub for more project samples.
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farabi1096&show_icons=true&theme=radical)
