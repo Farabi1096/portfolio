@@ -1,51 +1,53 @@
 # Faisal Meah Farabi
-**Senior Officer, MIS | Data Analyst | Sales Operations Specialist**
+**Senior MIS Executive | Data Analyst | Sales Operations Specialist**
 
-Dedicated MIS professional with a proven track record of transforming complex sales data into actionable business insights. Currently focused on optimizing reporting frameworks and driving performance through advanced data visualization.
-
----
-
-## Core Professional Skills
-* **Data Visualization:** Developing interactive dashboards in Power BI and Excel.
-* **Reporting Automation:** Streamlining workflows using Power Query, Power Pivot, and SQL.
-* **Sales Analytics:** Tracking KPIs, targets, and incentives for General and Modern Trade.
-* **Advanced Excel:** Expertise in complex formulas (XLOOKUP, Index/Match) and VBA macros.
+I specialize in transforming complex sales data into actionable business intelligence. With a background in major MNCs, I bridge the gap between raw datasets and strategic decision-making through automated reporting and interactive dashboards.
 
 ---
 
-## Professional Highlights
-### Senior Officer (MIS) | Unilever International (Artisan Payroll)
-* Manage comprehensive KPI reporting and sales performance tracking.
-* Develop automated tools for incentive preparation and field team support.
-* Coordinate cross-functional data verification for large-scale retail projects.
+## 🚀 Professional Impact
+* **MIS Executive at Colgate-Palmolive:** Driving retail display automation and nationwide sales tracking.
+* **Ex-Unilever International:** Managed end-to-end KPI reporting and SFA system data integrity.
+* **Process Automation:** Reduced manual reporting cycles by implementing Power BI and Advanced Excel workflows.
 
 ---
 
-## Honors & Awards
+## 🛠 Technical Expertise
+* **Data Visualization:** Power BI (DAX & Data Modeling), Excel Dashboards.
+* **Data Management:** SQL, Power Query, Power Pivot, SFA System Administration.
+* **Operations:** KPI Tracking, Sales Trend Analysis, Incentive Calculation, PJP Optimization.
+* **Efficiency:** Professional Typing Speed — **115 WPM (English)** | 42 WPM (Bangla).
+
+---
+
+## 🏆 Honors & Awards
 ### Create the Future Award 2025
-**Issued by: Colgate-Palmolive ACI Bangladesh Pvt. Limited**
-* Recognized for excellence in driving innovation and future-ready solutions within the organization.
+**Colgate-Palmolive ACI Bangladesh Pvt. Limited**
+* Recognized for excellence in driving innovation and future-ready MIS solutions.
 
 ---
 
-## Featured Projects
+## 📊 Featured Projects
 ### Sales & Distribution Dashboard
-Interactive Power BI solution for tracking regional sales performance and outlet-level achievements.
+Interactive Power BI solution for tracking regional performance and outlet-level achievements.
 * [View Repository](https://github.com/Farabi1096/powerbi-dashboards)
 
 ### Excel KPI Automation System
-A robust reporting ecosystem built to reduce manual processing time for weekly and monthly performance reviews.
+A robust reporting ecosystem built to eliminate manual data entry for weekly and monthly performance reviews.
 * [View Repository](https://github.com/Farabi1096/excel-automated-reports)
 
 ---
 
-## Interests & More
-* **Sports:** Enthusiastic badminton player.
-* **Music:** Currently learning the mandolin.
-* **Learning:** Always looking for more efficient ways to map and visualize geographic data.
+## 🎓 Education & Growth
+* **Master of Arts in Political Science** | Chittagong College (Expected 2027)
+* **Bachelor of Arts** | Govt. City College, Chattogram (2021)
 
 ---
 
-## Connect With Me
+## 📩 Connect With Me
 * **LinkedIn:** [linkedin.com/in/faisal-meah](https://www.linkedin.com/in/faisal-meah/)
-* **GitHub:** [github.com/Farabi1096](https://github.com/Farabi1096)
+* **Email:** farabihossain1096@gmail.com
+* **Location:** Dhaka, Bangladesh
+
+---
+*Optimizing data, one dashboard at a time.*
