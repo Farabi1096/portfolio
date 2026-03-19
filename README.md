@@ -28,21 +28,16 @@ Recognized for excellence in driving digital innovation and building future-read
 <table>
   <thead>
     <tr>
-      <th bgcolor="#F4F4F4" align="center">📊 Power BI Dashboards</th>
-      <th bgcolor="#F4F4F4" align="center">📑 Excel Automation</th>
-      <th bgcolor="#F4F4F4" align="center">⌨️ Speed & Accuracy Engine</th>
+      <th bgcolor="#FFEBEB" align="center">📊 Power BI Dashboards</th>
+      <th bgcolor="#FFEBEB" align="center">📑 Excel Automation</th>
+      <th bgcolor="#FFEBEB" align="center">⌨️ Speed & Accuracy Engine</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b>Advanced Analytics Hub</b></td>
-      <td align="center"><b>Workflow Efficiency</b></td>
-      <td align="center"><b>High-Speed Data Processing</b></td>
-    </tr>
-    <tr>
-      <td>Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis.</td>
-      <td>End-to-end KPI tracking systems built with Power Query and VBA macros.</td>
-      <td>Technical project showcasing data entry precision and 115 WPM speed optimization.</td>
+      <td align="center">Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis.</td>
+      <td align="center">End-to-end KPI tracking systems built with Power Query and VBA macros.</td>
+      <td align="center">Technical project showcasing data entry precision and 115 WPM speed optimization.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Farabi1096/powerbi-dashboards">View Project →</a></td>
