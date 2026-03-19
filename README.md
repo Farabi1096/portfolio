@@ -1,7 +1,5 @@
-# Faisal Meah
+# Faisal Meah [![Download CV](https://img.shields.io/badge/Download-CV-0077B5?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_LINK_HERE)
 **MIS Executive | Business Insights & Sales Operations**
-
-[![Download CV](https://img.shields.io/badge/Download-CV-0077B5?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_LINK_HERE)
 
 I bridge the gap between complex datasets and executive action. With a career built at **Colgate-Palmolive** and **Unilever**, I specialize in high-speed reporting automation and interactive BI solutions that drive nationwide sales performance.
 
@@ -44,7 +42,7 @@ Recognized for excellence in driving digital innovation and building future-read
 
 ### 📩 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Meah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-meah/)
-[![Gmail](https://img.shields.io/badge/Email-Faisal%20Meah-D14836?style=for-the-badge&logo=badge&logoColor=white)](mailto:farabihossain1096@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Faisal%20Meah-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farabihossain1096@gmail.com)
 
 ---
 *Transforming raw data into operational clarity.*
