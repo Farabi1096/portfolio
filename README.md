@@ -1,36 +1,48 @@
 # 📁 Faisal Meah's Portfolio
 
-**Data enthusiast | Problem solver | Business growth catalyst**
+**MIS Executive | Data Analyst | Power BI & Excel Specialist**
 
-Welcome to my professional portfolio! I am **Faisal Meah**, a data-driven Sales Operations & Data Analyst currently working as **Senior Officer - MIS** at Artisan Business Network Bangladesh, managing data analytics and reporting for Unilever International’s operations. I have extensive experience in **Excel**, **Power BI**, and **data analysis**, creating actionable insights and business intelligence solutions across **Sales**, **IT**, and **MIS** functions.
-
----
-
-## 🔍 My Expertise  
-- **Advanced Excel Skills**: Data automation, advanced functions, pivot tables, and dynamic reporting.  
-- **Power BI**: Business intelligence, dashboards, KPI tracking, and data visualization.  
-- **Data Analysis**: Trend analysis, statistical insights, and forecasting.  
-- **Report Automation**: Using Power Query, Power Pivot, Power BI, and other Excel tools for automated data transformation and reporting.
+Welcome! I am **Faisal Meah**, a data-driven professional with experience in **MIS, Sales Operations, and Data Analysis**. Currently working as **MIS Executive at Colgate-Palmolive ACI Bangladesh Pvt. Limited**, I specialize in transforming data into actionable insights to support business decisions and improve operational performance.
 
 ---
 
-## 📊 Key Projects & Work
-
-### 1. **[Power BI Portfolio](https://github.com/Farabi1096/powerbi-dashboards)**  
-- Dynamic sales dashboards  
-- KPI tracking & performance analysis  
-- Interactive business intelligence reports  
-
-### 2. **[Excel Portfolio](https://github.com/Farabi1096/excel-automated-reports)**  
-- Automated business dashboards  
-- Advanced reporting and data analysis  
-- Decision-making tools  
-
-### 3. **[Typing Portfolio](https://github.com/Farabi1096/typing-tornado)**  
-- Typing speed, accuracy, and consistency metrics  
-- Demonstrates technical proficiency and attention to detail  
+## 🔍 Core Expertise
+- **Advanced Excel**: Formulas, Power Query, Power Pivot, automated reporting  
+- **Power BI**: Interactive dashboards, KPI tracking, data visualization  
+- **Data Analysis**: Sales analysis, trend insights, performance tracking  
+- **Reporting & Automation**: Data transformation and process automation  
 
 ---
 
-## 💻 Connect With Me  
-I am always open to feedback, collaboration, freelance projects, and new opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-meah/) or check out my GitHub for more project samples.
+## 📊 Projects
+
+### 🔹 [Power BI Dashboards](https://github.com/Farabi1096/powerbi-dashboards)
+- Sales performance dashboards  
+- KPI tracking and trend analysis  
+- Interactive business reports  
+
+### 🔹 [Excel Automation](https://github.com/Farabi1096/excel-automated-reports)
+- Automated reporting systems  
+- Advanced Excel dashboards  
+- Data-driven decision tools  
+
+### 🔹 [Typing Portfolio](https://github.com/Farabi1096/typing-tornado)
+- Typing speed and accuracy tracking  
+- Demonstrates attention to detail and consistency  
+
+---
+
+## 💼 Work Focus
+- Sales & distribution data analysis (Modern Trade & General Trade)  
+- KPI reporting and dashboard development  
+- Trade marketing and operational support  
+
+---
+
+## 🔗 Connect
+- **LinkedIn**: https://www.linkedin.com/in/faisal-meah/  
+- **GitHub**: https://github.com/Farabi1096  
+
+---
+
+*Open to opportunities, collaboration, and freelance projects.*
