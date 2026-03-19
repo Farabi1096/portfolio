@@ -1,42 +1,47 @@
 # Faisal Meah Farabi
-**MIS Executive | Data Analyst | Sales Operations**
+**MIS Executive | Data Intelligence & Operations Specialist**
 
-I specialize in data-driven decision-making and reporting automation for multinational organizations. Currently driving retail execution and digital transformation at **Colgate-Palmolive**.
-
----
-
-## 🏆 Honor
-### Create the Future Award 2025
-**Colgate-Palmolive ACI Bangladesh Pvt. Limited**
-* Recognized for excellence in building innovative, future-ready MIS solutions.
+I bridge the gap between complex datasets and executive action. With a career built at **Colgate-Palmolive** and **Unilever**, I specialize in high-speed reporting automation and interactive BI solutions that drive nationwide sales performance.
 
 ---
 
-## 📂 Featured Projects
-*Select a project below to view detailed dashboards and documentation.*
-
-### 1. [Power BI Analytics Suite](https://github.com/Farabi1096/powerbi-dashboards)
-Advanced end-to-end BI solutions including Factory Performance, Sales 360, and Operational Gap Analysis for the FMCG sector.
-
-### 2. [Excel Reporting Automation](https://github.com/Farabi1096/excel-automated-reports)
-Automated KPI tracking and performance reporting frameworks built using Power Query, Power Pivot, and VBA.
-
-### 3. [Typing Performance System](https://github.com/Farabi1096/typing-tornado)
-A technical project demonstrating data accuracy and professional efficiency (Tracking 115 WPM speed and consistency).
+### 🏆 Featured Recognition
+**Create the Future Award 2025** | *Colgate-Palmolive ACI Bangladesh Pvt. Limited*
+> Recognized for excellence in driving digital innovation and building future-ready MIS frameworks to optimize organizational efficiency.
 
 ---
 
-## Professional Skills
-* **Analytics:** Power BI, SQL, Data Modeling (Star Schema), Trend Analysis.
-* **Automation:** Advanced Excel, Power Query, SFA System Management.
-* **Operations:** KPI Monitoring, Retail Execution, Distribution Channel Analytics.
+### ⚡ Operational Performance
+| Metric | Achievement |
+| :--- | :--- |
+| **Typing Speed** | **115 WPM (English)** / 42 WPM (Bangla) |
+| **Tech Stack** | Power BI (DAX), SQL, Excel (Power Query/VBA), SFA Systems |
+| **Industries** | FMCG, Supply Chain, Modern & General Trade |
 
 ---
 
-## Connect
-* **LinkedIn:** [linkedin.com/in/faisal-meah](https://www.linkedin.com/in/faisal-meah/)
-* **Location:** Dhaka, Bangladesh
-* **Email:** farabihossain1096@gmail.com
+### 📂 Strategic Projects
+*Click on a project card to explore detailed dashboards and logic.*
+
+| [📊 Power BI Analytics](https://github.com/Farabi1096/powerbi-dashboards) | [📑 Excel Automation](https://github.com/Farabi1096/excel-automated-reports) | [⌨️ Performance Engine](https://github.com/Farabi1096/typing-tornado) |
+| :--- | :--- | :--- |
+| **Core Analysis Hub** | **Efficiency Framework** | **Data Accuracy System** |
+| Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis. | End-to-end KPI tracking systems built with Power Query and VBA macros. | Technical project showcasing data entry precision and speed optimization. |
+| [View Project →](https://github.com/Farabi1096/powerbi-dashboards) | [View Project →](https://github.com/Farabi1096/excel-automated-reports) | [View Project →](https://github.com/Farabi1096/typing-tornado) |
 
 ---
-*Optimizing business clarity through data.*
+
+### 💼 Professional Journey
+* **MIS Executive** | *Colgate-Palmolive ACI Bangladesh* (Current)
+* **Senior Officer – MIS** | *Unilever International* (Artisan Payroll)
+* **Officer – MIS** | *Transcom Distribution Company Limited*
+
+---
+
+### 🔗 Let's Connect
+**LinkedIn:** [linkedin.com/in/faisal-meah](https://www.linkedin.com/in/faisal-meah/)  
+**Email:** farabihossain1096@gmail.com  
+**Location:** Dhaka, Bangladesh
+
+---
+*Transforming raw data into operational clarity.*
