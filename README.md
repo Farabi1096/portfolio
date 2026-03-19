@@ -18,37 +18,16 @@ Data-driven professional focused on building dashboards and automated reporting 
 
 ## 📊 Featured Projects
 
-### ![P1](https://img.shields.io/badge/Power_BI-Sales_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-> **Overview:** Interactive dashboard for tracking sales performance, KPIs, and trends across regions and products.
-
-<p align="center">
-  <img src="images/powerbi1.png" width="45%" />
-  <img src="images/powerbi2.png" width="45%" />
-</p>
-
+### Power BI Sales Dashboard
+> **Overview:** Interactive dashboard for tracking sales performance, KPIs, and trends across regions and products.  
 🔗 [View Project](https://github.com/Farabi1096/powerbi-dashboards)
 
----
-
-### ![P2](https://img.shields.io/badge/Excel-KPI_Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-> **Overview:** Automated Excel reporting system using Power Query and Power Pivot to streamline KPI tracking.
-
-<p align="center">
-  <img src="images/excel1.png" width="45%" />
-  <img src="images/excel2.png" width="45%" />
-</p>
-
+### Excel KPI Automation
+> **Overview:** Automated Excel reporting system using Power Query and Power Pivot to streamline KPI tracking.  
 🔗 [View Project](https://github.com/Farabi1096/excel-automated-reports)
 
----
-
-### ![P3](https://img.shields.io/badge/Typing-Performance_Tracking-4CAF50?style=for-the-badge&logoColor=white)
-> **Overview:** Typing performance tracker measuring speed, accuracy, and consistency.
-
-<p align="center">
-  <img src="images/typing.png" width="60%" />
-</p>
-
+### Typing Performance Tracker
+> **Overview:** Typing performance tracker measuring speed, accuracy, and consistency.  
 🔗 [View Project](https://github.com/Farabi1096/typing-tornado)
 
 ---
