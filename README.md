@@ -9,7 +9,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 ### 🏆 Featured Recognition
 **Create the Future Award 2025** | *Colgate-Palmolive ACI Bangladesh Pvt. Limited*
 
-![Create the Future Award Certificate](Award.jpg)
+![Create the Future Award Certificate](images/Award.jpg)
 
 > Recognized for excellence in driving digital innovation and building future-ready MIS frameworks to optimize organizational efficiency.
 
