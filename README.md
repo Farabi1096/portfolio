@@ -34,7 +34,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ### 💼 Professional Journey
 * **MIS Executive** | *Colgate-Palmolive ACI Bangladesh* (Current)
-* **Senior Officer – MIS** | *Unilever International* (Artisan Payroll)
+* **Senior Officer – MIS** | *Unilever International*
 * **Officer – MIS** | *Transcom Distribution Company Limited*
 
 ---
