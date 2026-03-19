@@ -23,13 +23,34 @@ Recognized for excellence in driving digital innovation and building future-read
 ---
 
 ## <span style="color:#003366">📂 Strategic Projects</span>
-*Click on the view links below to explore detailed dashboards and logic.*
+*Explore detailed dashboards and technical logic via the links below.*
 
-| 📊 Power BI Dashboards | 📑 Excel Automation | ⌨️ Speed & Accuracy Engine |
-| :--- | :--- | :--- |
-| **Advanced Analytics Hub** | **Workflow Efficiency** | **High-Speed Data Processing** |
-| Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis. | End-to-end KPI tracking systems built with Power Query and VBA macros. | Technical project showcasing data entry precision and 115 WPM speed optimization. |
-| [View Project →](https://github.com/Farabi1096/powerbi-dashboards) | [View Project →](https://github.com/Farabi1096/excel-automated-reports) | [View Project →](https://github.com/Farabi1096/typing-tornado) |
+<table>
+  <thead>
+    <tr>
+      <th bgcolor="#F4F4F4" align="center">📊 Power BI Dashboards</th>
+      <th bgcolor="#F4F4F4" align="center">📑 Excel Automation</th>
+      <th bgcolor="#F4F4F4" align="center">⌨️ Speed & Accuracy Engine</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Advanced Analytics Hub</b></td>
+      <td align="center"><b>Workflow Efficiency</b></td>
+      <td align="center"><b>High-Speed Data Processing</b></td>
+    </tr>
+    <tr>
+      <td>Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis.</td>
+      <td>End-to-end KPI tracking systems built with Power Query and VBA macros.</td>
+      <td>Technical project showcasing data entry precision and 115 WPM speed optimization.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Farabi1096/powerbi-dashboards">View Project →</a></td>
+      <td align="center"><a href="https://github.com/Farabi1096/excel-automated-reports">View Project →</a></td>
+      <td align="center"><a href="https://github.com/Farabi1096/typing-tornado">View Project →</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
