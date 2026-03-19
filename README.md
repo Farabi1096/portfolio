@@ -5,7 +5,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-### 🏆 Featured Recognition
+## <span style="color:#003366">🏆 Featured Recognition</span>
 **Create the Future Award 2025** | *Colgate-Palmolive ACI Bangladesh Pvt. Limited*
 
 Recognized for excellence in driving digital innovation and building future-ready MIS frameworks to optimize organizational efficiency.
@@ -14,7 +14,7 @@ Recognized for excellence in driving digital innovation and building future-read
 
 ---
 
-### ⚡ Operational Performance
+## <span style="color:#003366">⚡ Operational Performance</span>
 | Metric | Achievement |
 | :--- | :--- |
 | **Typing Speed** | **115 WPM (English)** / 42 WPM (Bangla) |
@@ -22,10 +22,10 @@ Recognized for excellence in driving digital innovation and building future-read
 
 ---
 
-### 📂 Strategic Projects
-*Click on a project card to explore detailed dashboards and logic.*
+## <span style="color:#003366">📂 Strategic Projects</span>
+*Click on the view links below to explore detailed dashboards and logic.*
 
-| [📊 Power BI Dashboards](https://github.com/Farabi1096/powerbi-dashboards) | [📑 Excel Automation](https://github.com/Farabi1096/excel-automated-reports) | [⌨️ Speed & Accuracy Engine](https://github.com/Farabi1096/typing-tornado) |
+| 📊 Power BI Dashboards | 📑 Excel Automation | ⌨️ Speed & Accuracy Engine |
 | :--- | :--- | :--- |
 | **Advanced Analytics Hub** | **Workflow Efficiency** | **High-Speed Data Processing** |
 | Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis. | End-to-end KPI tracking systems built with Power Query and VBA macros. | Technical project showcasing data entry precision and 115 WPM speed optimization. |
@@ -33,14 +33,14 @@ Recognized for excellence in driving digital innovation and building future-read
 
 ---
 
-### 💼 Professional Journey
+## <span style="color:#003366">💼 Professional Journey</span>
 * **MIS Executive** | *Colgate-Palmolive ACI Bangladesh* (Current)
 * **Senior Officer – MIS** | *Unilever International*
 * **Officer – MIS** | *Transcom Distribution Company Limited*
 
 ---
 
-### 📩 Let's Connect
+## <span style="color:#003366">📩 Let's Connect</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Meah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-meah/)
 [![Gmail](https://img.shields.io/badge/Email-Faisal%20Meah-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farabihossain1096@gmail.com)
 
