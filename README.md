@@ -1,53 +1,42 @@
 # Faisal Meah Farabi
-**Senior MIS Executive | Data Analyst | Sales Operations Specialist**
+**MIS Executive | Data Analyst | Sales Operations**
 
-I specialize in transforming complex sales data into actionable business intelligence. With a background in major MNCs, I bridge the gap between raw datasets and strategic decision-making through automated reporting and interactive dashboards.
-
----
-
-## 🚀 Professional Impact
-* **MIS Executive at Colgate-Palmolive:** Driving retail display automation and nationwide sales tracking.
-* **Ex-Unilever International:** Managed end-to-end KPI reporting and SFA system data integrity.
-* **Process Automation:** Reduced manual reporting cycles by implementing Power BI and Advanced Excel workflows.
+I specialize in data-driven decision-making and reporting automation for multinational organizations. Currently driving retail execution and digital transformation at **Colgate-Palmolive**.
 
 ---
 
-## 🛠 Technical Expertise
-* **Data Visualization:** Power BI (DAX & Data Modeling), Excel Dashboards.
-* **Data Management:** SQL, Power Query, Power Pivot, SFA System Administration.
-* **Operations:** KPI Tracking, Sales Trend Analysis, Incentive Calculation, PJP Optimization.
-* **Efficiency:** Professional Typing Speed — **115 WPM (English)** | 42 WPM (Bangla).
-
----
-
-## 🏆 Honors & Awards
+## 🏆 Honor
 ### Create the Future Award 2025
 **Colgate-Palmolive ACI Bangladesh Pvt. Limited**
-* Recognized for excellence in driving innovation and future-ready MIS solutions.
+* Recognized for excellence in building innovative, future-ready MIS solutions.
 
 ---
 
-## 📊 Featured Projects
-### Sales & Distribution Dashboard
-Interactive Power BI solution for tracking regional performance and outlet-level achievements.
-* [View Repository](https://github.com/Farabi1096/powerbi-dashboards)
+## 📂 Featured Projects
+*Select a project below to view detailed dashboards and documentation.*
 
-### Excel KPI Automation System
-A robust reporting ecosystem built to eliminate manual data entry for weekly and monthly performance reviews.
-* [View Repository](https://github.com/Farabi1096/excel-automated-reports)
+### 1. [Power BI Analytics Suite](https://github.com/Farabi1096/powerbi-dashboards)
+Advanced end-to-end BI solutions including Factory Performance, Sales 360, and Operational Gap Analysis for the FMCG sector.
 
----
+### 2. [Excel Reporting Automation](https://github.com/Farabi1096/excel-automated-reports)
+Automated KPI tracking and performance reporting frameworks built using Power Query, Power Pivot, and VBA.
 
-## 🎓 Education & Growth
-* **Master of Arts in Political Science** | Chittagong College (Expected 2027)
-* **Bachelor of Arts** | Govt. City College, Chattogram (2021)
+### 3. [Typing Performance System](https://github.com/Farabi1096/typing-tornado)
+A technical project demonstrating data accuracy and professional efficiency (Tracking 115 WPM speed and consistency).
 
 ---
 
-## 📩 Connect With Me
+## Professional Skills
+* **Analytics:** Power BI, SQL, Data Modeling (Star Schema), Trend Analysis.
+* **Automation:** Advanced Excel, Power Query, SFA System Management.
+* **Operations:** KPI Monitoring, Retail Execution, Distribution Channel Analytics.
+
+---
+
+## Connect
 * **LinkedIn:** [linkedin.com/in/faisal-meah](https://www.linkedin.com/in/faisal-meah/)
-* **Email:** farabihossain1096@gmail.com
 * **Location:** Dhaka, Bangladesh
+* **Email:** farabihossain1096@gmail.com
 
 ---
-*Optimizing data, one dashboard at a time.*
+*Optimizing business clarity through data.*
