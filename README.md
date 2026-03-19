@@ -1,5 +1,5 @@
 # Faisal Meah
-**MIS Executive | Data Intelligence & Sales Operations**
+**MIS Executive | Business Insights & Sales Operations**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-meah/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farabihossain1096@gmail.com)
 
 I bridge the gap between complex datasets and executive action. With a career built at **Colgate-Palmolive** and **Unilever**, I specialize in high-speed reporting automation and interactive BI solutions that drive nationwide sales performance.
