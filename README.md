@@ -17,7 +17,6 @@ I bridge the gap between complex datasets and executive action. With a career bu
 | :--- | :--- |
 | **Typing Speed** | **115 WPM (English)** / 42 WPM (Bangla) |
 | **Tech Stack** | Power BI (DAX), SQL, Excel (Power Query/VBA), SFA Systems |
-| **Industries** | FMCG, Supply Chain, Modern & General Trade |
 
 ---
 
