@@ -9,13 +9,13 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 <table>
   <tr>
-    <td width="50%" style="vertical-align: middle;">
-      <h3>Create the Future Award 2025</h3>
-      <p><i>Colgate-Palmolive ACI Bangladesh Pvt. Limited</i></p>
-      <p>Recognized for excellence in driving digital innovation and building future-ready MIS frameworks to optimize organizational efficiency. This initiative streamlined cross-functional data flows and enhanced real-time decision-making capabilities.</p>
-    </td>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <img src="images/Award.jpg" alt="Create the Future Award Certificate" width="350" style="border-radius: 8px; border: 1px solid #ddd;">
+    </td>
+    <td width="60%" style="vertical-align: middle; padding-left: 20px;">
+      <h3>Create the Future Award 2025</h3>
+      <p><b>Colgate-Palmolive ACI Bangladesh Pvt. Limited</b></p>
+      <p>Recognized for excellence in driving digital innovation and building future-ready MIS frameworks to optimize organizational efficiency. This initiative streamlined cross-functional data flows and enhanced real-time decision-making capabilities across the sales operation.</p>
     </td>
   </tr>
 </table>
