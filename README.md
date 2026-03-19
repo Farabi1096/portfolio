@@ -38,10 +38,10 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-### 🔗 Let's Connect
-**LinkedIn:** [linkedin.com/in/faisal-meah](https://www.linkedin.com/in/faisal-meah/)  
-**Email:** farabihossain1096@gmail.com  
-**Location:** Dhaka, Bangladesh
+### 📩 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Meah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-meah/)
+[![Gmail](https://img.shields.io/badge/Email-Farabi%20Hossain-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farabihossain1096@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Farabi1096-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farabi1096)
 
 ---
 *Transforming raw data into operational clarity.*
