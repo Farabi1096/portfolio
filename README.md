@@ -10,7 +10,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 Recognized for excellence in driving digital innovation and building future-ready MIS frameworks to optimize organizational efficiency.
 
-![Create the Future Award Certificate](images/Award.jpg)
+<img src="images/Award.jpg" alt="Create the Future Award Certificate" width="500">
 
 ---
 
