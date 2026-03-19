@@ -1,48 +1,51 @@
-# Faisal Meah
+# Faisal Meah Farabi
+**Senior Officer, MIS | Data Analyst | Sales Operations Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Meah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-meah/)
-[![GitHub](https://img.shields.io/badge/GitHub-Farabi1096-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Farabi1096)
-
-**MIS Executive | Power BI | Excel | Data Analysis**
-
-Data-driven professional focused on building dashboards and automated reporting solutions for sales and distribution operations.
+Dedicated MIS professional with a proven track record of transforming complex sales data into actionable business insights. Currently focused on optimizing reporting frameworks and driving performance through advanced data visualization.
 
 ---
 
-## 🛠️ Expertise
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboards_%7C_DAX-F2C811?style=flat-square&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Power_Query_%7C_Power_Pivot-217346?style=flat-square&logoColor=white)
-![Analysis](https://img.shields.io/badge/Analysis-KPI_%7C_Trend_%7C_Performance-4CAF50?style=flat-square&logoColor=white)
+## Core Professional Skills
+* **Data Visualization:** Developing interactive dashboards in Power BI and Excel.
+* **Reporting Automation:** Streamlining workflows using Power Query, Power Pivot, and SQL.
+* **Sales Analytics:** Tracking KPIs, targets, and incentives for General and Modern Trade.
+* **Advanced Excel:** Expertise in complex formulas (XLOOKUP, Index/Match) and VBA macros.
 
 ---
 
-## 📊 Featured Projects
-
-### Power BI Sales Dashboard
-> **Overview:** Interactive dashboard for tracking sales performance, KPIs, and trends across regions and products.  
-🔗 [View Project](https://github.com/Farabi1096/powerbi-dashboards)
-
-### Excel KPI Automation
-> **Overview:** Automated Excel reporting system using Power Query and Power Pivot to streamline KPI tracking.  
-🔗 [View Project](https://github.com/Farabi1096/excel-automated-reports)
-
-### Typing Performance Tracker
-> **Overview:** Typing performance tracker measuring speed, accuracy, and consistency.  
-🔗 [View Project](https://github.com/Farabi1096/typing-tornado)
+## Professional Highlights
+### Senior Officer (MIS) | Unilever International (Artisan Payroll)
+* Manage comprehensive KPI reporting and sales performance tracking.
+* Develop automated tools for incentive preparation and field team support.
+* Coordinate cross-functional data verification for large-scale retail projects.
 
 ---
 
-## 📌 Focus Areas
-- Sales & distribution analytics (Modern Trade & General Trade)  
-- KPI reporting and dashboard development  
-- Data automation and performance tracking  
+## Honors & Awards
+### Create the Future Award 2025
+**Issued by: Colgate-Palmolive ACI Bangladesh Pvt. Limited**
+* Recognized for excellence in driving innovation and future-ready solutions within the organization.
 
 ---
 
-## 🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/faisal-meah/  
-- GitHub: https://github.com/Farabi1096  
+## Featured Projects
+### Sales & Distribution Dashboard
+Interactive Power BI solution for tracking regional sales performance and outlet-level achievements.
+* [View Repository](https://github.com/Farabi1096/powerbi-dashboards)
+
+### Excel KPI Automation System
+A robust reporting ecosystem built to reduce manual processing time for weekly and monthly performance reviews.
+* [View Repository](https://github.com/Farabi1096/excel-automated-reports)
 
 ---
 
-*Open to opportunities and collaboration.*
+## Interests & More
+* **Sports:** Enthusiastic badminton player.
+* **Music:** Currently learning the mandolin.
+* **Learning:** Always looking for more efficient ways to map and visualize geographic data.
+
+---
+
+## Connect With Me
+* **LinkedIn:** [linkedin.com/in/faisal-meah](https://www.linkedin.com/in/faisal-meah/)
+* **GitHub:** [github.com/Farabi1096](https://github.com/Farabi1096)
