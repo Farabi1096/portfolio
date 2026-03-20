@@ -52,7 +52,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td align="center" bgcolor="#E1F5FE"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>View Project →</b></a></td>
       <td align="center" bgcolor="#E8F5E9"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>View Project →</b></a></td>
-      <td align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/retail-ai-audit"><b>View Project →</b></a></td>
+      <td align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>View Project →</b></a></td>
       <td align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>View Project →</b></a></td>
     </tr>
   </tbody>
