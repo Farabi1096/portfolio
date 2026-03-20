@@ -22,35 +22,6 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## <span style="color:#003366">🤖 Featured Architecture: Retail AI Audit System</span>
-
-<table>
-  <tr>
-    <td width="60%" style="vertical-align: middle; padding-right: 20px;">
-      <h3>AI-Powered Outlet Display & Compliance</h3>
-      <p>Developed an end-to-end automation pipeline to audit retail execution using <b>Google Gemini AI</b> and <b>Apps Script</b>. This system ensures 100% visibility into shelf modality and stock availability across thousands of outlets.</p>
-      <ul>
-        <li><b>Automated Data String:</b> Captures Area, Town, DB Code/Name, Outlet Code/Name, and Route.</li>
-        <li><b>Vision AI Audit:</b> Gemini API identifies "Shelf Talker" presence and SKU quantities instantly.</li>
-        <li><b>Smart Hierarchy:</b> Automatically renames and organizes images into a regional folder structure.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="images/App_Script_API.jpg" alt="AI Audit Logic" width="350" style="border-radius: 8px; border: 1px solid #ddd;">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="images/Web_App.jpg" width="32%" style="border: 1px solid #eee;" />
-  <img src="images/App_Script_API.jpg" width="32%" style="border: 1px solid #eee;" />
-  <img src="images/Google_Sheet.jpg" width="32%" style="border: 1px solid #eee;" />
-  <br>
-  <i>Workflow: 1. Field Submission → 2. AI Compliance Logic → 3. Automated Master Ledger</i>
-</p>
-
----
-
 ## <span style="color:#003366">⚡ Operational Performance</span>
 | Metric | Achievement |
 | :--- | :--- |
