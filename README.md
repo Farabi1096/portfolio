@@ -22,7 +22,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## <span style="color:#003366">🤖 Featured Project: Retail AI Audit System</span>
+## <span style="color:#003366">🤖 Featured Architecture: Retail AI Audit System</span>
 
 <table>
   <tr>
@@ -67,18 +67,21 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <th bgcolor="#E1F5FE" align="center">📊 Power BI Dashboards</th>
       <th bgcolor="#E8F5E9" align="center">📑 Excel Automation</th>
-      <th bgcolor="#FFF3E0" align="center">⌨️ Speed & Accuracy Engine</th>
+      <th bgcolor="#F3E5F5" align="center">🤖 AI & Cloud Apps</th>
+      <th bgcolor="#FFF3E0" align="center">⌨️ Speed Engine</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" bgcolor="#F1F9FF">Interactive dashboards for Factory Performance, Sales 360, and Gap Analysis.</td>
       <td align="center" bgcolor="#F1FBF2">End-to-end KPI tracking systems built with Power Query and VBA macros.</td>
-      <td align="center" bgcolor="#FFF9F1">Technical project showcasing data entry precision and 115 WPM speed optimization.</td>
+      <td align="center" bgcolor="#FAEDFC">AI-powered web app for real-time retail display audits using Gemini API.</td>
+      <td align="center" bgcolor="#FFF9F1">Technical project showcasing data entry precision and 115 WPM optimization.</td>
     </tr>
     <tr>
       <td align="center" bgcolor="#E1F5FE"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>View Project →</b></a></td>
       <td align="center" bgcolor="#E8F5E9"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>View Project →</b></a></td>
+      <td align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/retail-ai-audit"><b>View Project →</b></a></td>
       <td align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>View Project →</b></a></td>
     </tr>
   </tbody>
@@ -86,7 +89,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## <span style="color:#003366">💼 Professional Journey</span>
+## <span style="color:#003366">💼 Professional Profile</span>
 * **MIS Executive** | *Colgate-Palmolive ACI Bangladesh* (Current)
 * **Senior Officer – MIS** | *Unilever International*
 * **Officer – MIS** | *Transcom Distribution Company Limited*
