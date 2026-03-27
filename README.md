@@ -50,6 +50,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 ---
 
 ## <span style="color:#003366">⚡ Operational Performance</span>
+
 | Metric | Achievement |
 | :--- | :--- |
 | **Typing Speed** | **115 WPM (English)** / 42 WPM (Bangla) |
@@ -94,6 +95,25 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>Explore →</b></a></td>
       <td align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>Explore →</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th bgcolor="#E0F2F1" align="center">🗺️ Retail Coverage Mapper</th>
+      <th bgcolor="#ECEFF1" align="center">🔜 Coming Soon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" bgcolor="#E8F6F5">Browser-based outlet mapping tool for TA/DA verification, territory coverage analysis & route distance calculation using Leaflet.js.</td>
+      <td align="center" bgcolor="#F5F5F5">More projects are on the way. Stay tuned for updates.</td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/retail-coverage-mapper"><b>Explore →</b></a></td>
+      <td align="center" bgcolor="#ECEFF1"><b>—</b></td>
     </tr>
   </tbody>
 </table>
