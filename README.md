@@ -61,59 +61,59 @@ I bridge the gap between complex datasets and executive action. With a career bu
 ## <span style="color:#003366">🔍 Explore All Projects</span>
 *Browse the complete collection of my work — dashboards, automation tools, AI apps & more.*
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th bgcolor="#E1F5FE" align="center">📊 Power BI Dashboards</th>
-      <th bgcolor="#E8F5E9" align="center">📑 Excel Automation</th>
+      <th width="50%" bgcolor="#E1F5FE" align="center">📊 Power BI Dashboards</th>
+      <th width="50%" bgcolor="#E8F5E9" align="center">📑 Excel Automation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" bgcolor="#F1F9FF">Factory Performance, Sales 360, Gap Analysis & regional KPI tracking dashboards with drill-through pages.</td>
-      <td align="center" bgcolor="#F1FBF2">Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</td>
+      <td width="50%" align="center" bgcolor="#F1F9FF">Factory Performance, Sales 360, Gap Analysis & regional KPI tracking dashboards with drill-through pages.</td>
+      <td width="50%" align="center" bgcolor="#F1FBF2">Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</td>
     </tr>
     <tr>
-      <td align="center" bgcolor="#E1F5FE"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>Explore →</b></a></td>
-      <td align="center" bgcolor="#E8F5E9"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>Explore →</b></a></td>
+      <td width="50%" align="center" bgcolor="#E1F5FE"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>Explore →</b></a></td>
+      <td width="50%" align="center" bgcolor="#E8F5E9"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>Explore →</b></a></td>
     </tr>
   </tbody>
 </table>
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th bgcolor="#F3E5F5" align="center">🤖 AI & Cloud Apps</th>
-      <th bgcolor="#FFF3E0" align="center">⌨️ Speed Engine</th>
+      <th width="50%" bgcolor="#F3E5F5" align="center">🤖 AI & Cloud Apps</th>
+      <th width="50%" bgcolor="#FFF3E0" align="center">⌨️ Speed Engine</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" bgcolor="#FAEDFC">AI-powered retail display audit app using Gemini API with real-time image analysis and scoring engine.</td>
-      <td align="center" bgcolor="#FFF9F1">Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</td>
+      <td width="50%" align="center" bgcolor="#FAEDFC">AI-powered retail display audit app using Gemini API with real-time image analysis and scoring engine.</td>
+      <td width="50%" align="center" bgcolor="#FFF9F1">Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</td>
     </tr>
     <tr>
-      <td align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>Explore →</b></a></td>
-      <td align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>Explore →</b></a></td>
+      <td width="50%" align="center" bgcolor="#F3E5F5"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>Explore →</b></a></td>
+      <td width="50%" align="center" bgcolor="#FFF3E0"><a href="https://github.com/Farabi1096/typing-tornado"><b>Explore →</b></a></td>
     </tr>
   </tbody>
 </table>
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th bgcolor="#E0F2F1" align="center">🗺️ Retail Coverage Mapper</th>
-      <th bgcolor="#ECEFF1" align="center">🔜 Coming Soon</th>
+      <th width="50%" bgcolor="#E0F2F1" align="center">🗺️ Retail Coverage Mapper</th>
+      <th width="50%" bgcolor="#ECEFF1" align="center">🔜 Coming Soon</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" bgcolor="#E8F6F5">Browser-based outlet mapping tool for TA/DA verification, territory coverage analysis & route distance calculation using Leaflet.js.</td>
-      <td align="center" bgcolor="#F5F5F5">More projects are on the way. Stay tuned for updates.</td>
+      <td width="50%" align="center" bgcolor="#E8F6F5">Browser-based outlet mapping tool for TA/DA verification, territory coverage analysis & route distance calculation using Leaflet.js.</td>
+      <td width="50%" align="center" bgcolor="#F5F5F5">More projects are on the way. Stay tuned for updates.</td>
     </tr>
     <tr>
-      <td align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/retail-coverage-mapper"><b>Explore →</b></a></td>
-      <td align="center" bgcolor="#ECEFF1"><b>—</b></td>
+      <td width="50%" align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/retail-coverage-mapper"><b>Explore →</b></a></td>
+      <td width="50%" align="center" bgcolor="#ECEFF1"><b>—</b></td>
     </tr>
   </tbody>
 </table>
