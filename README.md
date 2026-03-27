@@ -112,7 +112,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
       <td width="50%" align="center" bgcolor="#F5F5F5">More projects are on the way. Stay tuned for updates.</td>
     </tr>
     <tr>
-      <td width="50%" align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/retail-coverage-mapper"><b>Explore →</b></a></td>
+      <td width="50%" align="center" bgcolor="#E0F2F1"><a href="https://github.com/Farabi1096/outlet-location-tracker"><b>Explore →</b></a></td>
       <td width="50%" align="center" bgcolor="#ECEFF1"><b>—</b></td>
     </tr>
   </tbody>
