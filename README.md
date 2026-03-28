@@ -32,7 +32,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## <span style="color:#003366">🏆 Featured Recognition</span>
+## 🏆 Featured Recognition
 
 <table>
   <tr>
@@ -49,16 +49,21 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## <span style="color:#003366">⚡ Operational Performance</span>
+## 🛠️ Tech Stack
 
-| Metric | Achievement |
-| :--- | :--- |
-| **Typing Speed** | **115 WPM (English)** / 42 WPM (Bangla) |
-| **Tech Stack** | Power BI (DAX), SQL, Gemini API, Excel (VBA/Power Query), SFA Systems |
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SFA_Systems-EB102F?style=for-the-badge"/>
+</p>
 
 ---
 
-## <span style="color:#003366">🔍 Explore All Projects</span>
+## 🔍 Explore All Projects
 *Browse the complete collection of my work — dashboards, automation tools, AI apps & more.*
 
 <table width="100%">
@@ -127,7 +132,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
 
 ---
 
-## <span style="color:#003366">💼 Professional Profile</span>
+## 💼 Professional Profile
 * **MIS Executive** | *Colgate-Palmolive ACI Bangladesh* (Current)
 * **Senior Officer – MIS** | *Unilever International*
 * **Officer – MIS** | *Transcom Distribution Company Limited*
