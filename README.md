@@ -1,7 +1,7 @@
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/Farabi1096">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=EB102F&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Faisal+Meah;%F0%9F%93%8A+MIS+Executive+%7C+Business+Insights+%26+Sales+Ops;%E2%9A%A1+Power+BI+%7C+SQL+%7C+Excel+VBA+%7C+Gemini+API;%F0%9F%8F%AD+Colgate-Palmolive+%7C+Ex-Unilever;%F0%9F%92%A1+Turning+Raw+Data+Into+Operational+Clarity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=EB102F&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Faisal+Meah;%F0%9F%93%8A+MIS+Executive+%7C+Business+Insights+%26+Sales+Ops;%E2%9A%A1+Power+BI+%7C+SQL+%7C+Excel+VBA+%7C+Gemini+API;%F0%9F%8F%AD+Colgate-Palmolive+%7C+Ex-Unilever;%F0%9F%92%A1+Turning+Raw+Data+Into+Operational+Clarity" alt="Typing SVG" />
   </a>
 </p>
 
