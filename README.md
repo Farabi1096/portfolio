@@ -72,8 +72,12 @@ I bridge the gap between complex datasets and executive action. With a career bu
   </thead>
   <tbody>
     <tr>
-      <td width="50%" align="center">Factory Performance, Sales 360, Gap Analysis & regional KPI tracking dashboards with drill-through pages.</td>
-      <td width="50%" align="center">Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</td>
+      <td width="50%" align="center">
+        <p>Factory Performance, Sales 360, Gap Analysis & regional KPI tracking dashboards with drill-through pages.</p>
+      </td>
+      <td width="50%" align="center">
+        <p>Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</p>
+      </td>
     </tr>
     <tr>
       <td width="50%" align="center">
@@ -92,8 +96,12 @@ I bridge the gap between complex datasets and executive action. With a career bu
       <th width="50%" align="center"><br>⌨️ Speed Engine</th>
     </tr>
     <tr>
-      <td width="50%" align="center">AI-powered retail display audit app using Gemini API with real-time image analysis and scoring engine.</td>
-      <td width="50%" align="center">Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</td>
+      <td width="50%" align="center">
+        <p>AI-powered retail display audit app using Gemini API with real-time image analysis and scoring engine.</p>
+      </td>
+      <td width="50%" align="center">
+        <p>Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</p>
+      </td>
     </tr>
     <tr>
       <td width="50%" align="center">
@@ -112,8 +120,12 @@ I bridge the gap between complex datasets and executive action. With a career bu
       <th width="50%" align="center"><br>🔜 Coming Soon</th>
     </tr>
     <tr>
-      <td width="50%" align="center">Browser-based outlet mapping tool for TA/DA verification, territory coverage analysis & route distance calculation using Leaflet.js.</td>
-      <td width="50%" align="center">More projects are on the way. Stay tuned for updates.</td>
+      <td width="50%" align="center">
+        <p>Browser-based outlet mapping tool for TA/DA verification, territory coverage analysis & route distance calculation using Leaflet.js.</p>
+      </td>
+      <td width="50%" align="center">
+        <p>More projects are on the way. Stay tuned for updates.</p>
+      </td>
     </tr>
     <tr>
       <td width="50%" align="center">
