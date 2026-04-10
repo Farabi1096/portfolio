@@ -82,12 +82,12 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/powerbi-dashboards">
-          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/excel-automated-reports">
-          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" />
         </a>
       </td>
     </tr>
@@ -106,12 +106,12 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/Retail-Automation-Portfolio">
-          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/typing-tornado">
-          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" />
         </a>
       </td>
     </tr>
@@ -130,7 +130,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/outlet-location-tracker">
-          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" />
         </a>
       </td>
       <td width="50%" align="center"><b>—</b></td>
