@@ -76,8 +76,16 @@ I bridge the gap between complex datasets and executive action. With a career bu
       <td width="50%" align="center">Automated KPI trackers, attendance systems & report generators using Power Query and VBA macros.</td>
     </tr>
     <tr>
-      <td width="50%" align="center"><a href="https://github.com/Farabi1096/powerbi-dashboards"><b>Explore →</b></a></td>
-      <td width="50%" align="center"><a href="https://github.com/Farabi1096/excel-automated-reports"><b>Explore →</b></a></td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Farabi1096/powerbi-dashboards">
+          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Farabi1096/excel-automated-reports">
+          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+        </a>
+      </td>
     </tr>
     <tr>
       <th width="50%" align="center"><br>🤖 AI & Cloud Apps</th>
@@ -88,8 +96,16 @@ I bridge the gap between complex datasets and executive action. With a career bu
       <td width="50%" align="center">Typing speed optimization project showcasing 115 WPM precision with accuracy tracking.</td>
     </tr>
     <tr>
-      <td width="50%" align="center"><a href="https://github.com/Farabi1096/Retail-Automation-Portfolio"><b>Explore →</b></a></td>
-      <td width="50%" align="center"><a href="https://github.com/Farabi1096/typing-tornado"><b>Explore →</b></a></td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Farabi1096/Retail-Automation-Portfolio">
+          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Farabi1096/typing-tornado">
+          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+        </a>
+      </td>
     </tr>
     <tr>
       <th width="50%" align="center"><br>🗺️ Retail Coverage Mapper</th>
@@ -100,7 +116,11 @@ I bridge the gap between complex datasets and executive action. With a career bu
       <td width="50%" align="center">More projects are on the way. Stay tuned for updates.</td>
     </tr>
     <tr>
-      <td width="50%" align="center"><a href="https://github.com/Farabi1096/outlet-location-tracker"><b>Explore →</b></a></td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Farabi1096/outlet-location-tracker">
+          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+        </a>
+      </td>
       <td width="50%" align="center"><b>—</b></td>
     </tr>
   </tbody>
