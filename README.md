@@ -78,12 +78,12 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/powerbi-dashboards">
-          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/excel-automated-reports">
-          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
         </a>
       </td>
     </tr>
@@ -98,12 +98,12 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/Retail-Automation-Portfolio">
-          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/typing-tornado">
-          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
         </a>
       </td>
     </tr>
@@ -118,7 +118,7 @@ I bridge the gap between complex datasets and executive action. With a career bu
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Farabi1096/outlet-location-tracker">
-          <b style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">Explore →</b>
+          <img src="https://img.shields.io/badge/Explore_→-667eea?style=for-the-badge&logoColor=white" alt="Explore" style="box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);"/>
         </a>
       </td>
       <td width="50%" align="center"><b>—</b></td>
